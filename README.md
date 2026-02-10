@@ -1,5 +1,8 @@
 This project is a JavaScript-based counter app that allows users to increment, decrement, and reset a counter value. The counter value changes color dynamically depending on whether it is positive, negative, or zero, providing instant visual feedback. The app uses HTML, CSS, and JavaScript, and is fully responsive with Bootstrap and Google Fonts. Ideal for beginners learning DOM manipulation, event handling, and interactive UI design.
 
+#Deployment link:
+https://counterappready.netlify.app/
+
 
 
 image screenshot
